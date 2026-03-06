@@ -1,0 +1,7 @@
+PyPDF2==3.0.1
+sentence-transformers==2.7.0
+scikit-learn==1.4.2
+pandas==2.2.2
+streamlit==1.35.0
+torch==2.3.0
+transformers==4.41.2

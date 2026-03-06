@@ -1,0 +1,56 @@
+MARCUS WILLIAMS
+Senior Backend Software Engineer
+Email: marcus.williams@email.com | GitHub: github.com/marcuswilliams | Location: Austin, TX
+
+PROFESSIONAL SUMMARY
+Experienced Backend Software Engineer with 7 years of expertise building robust, scalable microservices
+and RESTful APIs. Deep experience with Java, Spring Boot, and cloud infrastructure on AWS and Azure.
+Passionate about clean code, system design, and high-availability architecture.
+
+TECHNICAL SKILLS
+Languages: Java (Java 8, 11, 17), Kotlin, Python (scripting only), Bash, Go (basic)
+Frameworks: Spring Boot, Spring MVC, Spring Security, Hibernate, JUnit 5, Mockito
+Databases: PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch
+Messaging & Streaming: Apache Kafka, RabbitMQ
+API Design: REST API, GraphQL, gRPC, OpenAPI / Swagger
+Cloud & DevOps: AWS (EC2, S3, RDS, ECS, Lambda), Azure, Docker, Kubernetes, Terraform, Ansible
+CI/CD: Jenkins, GitHub Actions, GitLab CI, ArgoCD
+Monitoring: Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana)
+Version Control: Git, GitHub, GitLab
+Methodologies: Agile, Scrum, Domain-Driven Design (DDD), Test-Driven Development (TDD), SOLID principles
+
+WORK EXPERIENCE
+
+Senior Backend Engineer — CloudSystems Inc., Austin, TX (2019 – Present)
+- Architected a microservices platform handling 10M+ daily requests using Spring Boot, Kafka, and Kubernetes.
+- Improved API response time by 35% through query optimization, caching with Redis, and async processing.
+- Built a real-time event-driven pipeline using Apache Kafka and Java Streams, processing 500K events/sec.
+- Mentored junior engineers and conducted code reviews; champion of TDD and clean code practices.
+- Deployed infrastructure with Terraform and AWS ECS; automated CI/CD with GitHub Actions and Jenkins.
+
+Backend Software Engineer — FinancePro Ltd., Dallas, TX (2016 – 2019)
+- Developed high-throughput payment processing microservices in Java 11 and Spring Boot.
+- Designed and maintained complex SQL schemas in PostgreSQL; tuned slow queries (avg improvement: 3x).
+- Integrated third-party payment APIs (Stripe, Braintree) and OAuth2 authentication flows.
+- Containerized legacy applications with Docker; assisted in Kubernetes migration project.
+
+Junior Developer — WebAgency, Houston, TX (2015 – 2016)
+- Built backend features for e-commerce platforms using Java and MySQL.
+- Participated in Agile sprints, daily standups, and sprint retrospectives.
+- Wrote unit tests with JUnit and integration tests for REST APIs.
+
+EDUCATION
+B.S. Computer Science — University of Texas at Austin, 2015
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect – Associate
+- Oracle Certified Professional Java Developer (OCP 11)
+- Kubernetes Administrator (CKA)
+
+PROJECTS
+- "MicroKart" – Open-source e-commerce microservices template (Spring Boot, Kafka, Docker). 800+ GitHub stars.
+- "SwiftCache" – A lightweight in-memory caching library for Java with LRU eviction. 300+ GitHub stars.
+- Internal tool: Automated API contract testing framework used across 15 teams at CloudSystems.
+
+INTERESTS
+System design, distributed systems, backend performance optimization, chess, hiking.
